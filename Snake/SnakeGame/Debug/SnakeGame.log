@@ -1,0 +1,3 @@
+﻿  game.cpp
+D:\Nedlastinger\game.cpp(12,26): warning C4018: '<': signed/unsigned mismatch
+  SnakeGame.vcxproj -> C:\Users\are_o\Desktop\SnakeGame\Debug\SnakeGame.exe
